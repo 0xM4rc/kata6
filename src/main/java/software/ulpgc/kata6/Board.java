@@ -1,6 +1,5 @@
 package software.ulpgc.kata6;
 
-import java.util.Arrays;
 import java.util.List;
 
 import static java.util.Arrays.stream;
